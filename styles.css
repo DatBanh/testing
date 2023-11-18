@@ -2,3 +2,7 @@ html{
   font-family: sans-serif;
   font-style: bold;
   {
+  h1{
+    background-color: white;
+    color: black;
+  }
